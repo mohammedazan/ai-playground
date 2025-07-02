@@ -43,27 +43,25 @@
 ## 📂 Folder Structure
 
 ```
-
 ai-experiments/
-├── project-01-image-classifier/
-│   ├── data/
-│   ├── notebooks/
-│   ├── src/
-│   └── README.md
-├── project-02-text-generation/
-│   ├── models/
-│   ├── examples/
-│   └── README.md
-├── project-03-voice-synthesis/
-│   ├── assets/
-│   ├── scripts/
-│   └── README.md
-├── .github/
-│   └── workflow\.yml
-├── environment.yml
+├── project-01-image-classifier/  
+│   ├── data/  
+│   ├── notebooks/  
+│   ├── src/  
+│   └── README.md  
+├── project-02-text-generation/  
+│   ├── models/  
+│   ├── examples/  
+│   └── README.md  
+├── project-03-voice-synthesis/  
+│   ├── assets/  
+│   ├── scripts/  
+│   └── README.md  
+├── .github/  
+│   └── workflow.yml  
+├── environment.yml  
 └── README.md
-
-````
+```
 
 ---
 
@@ -73,17 +71,15 @@ ai-experiments/
    ```bash
    git clone https://github.com/yourusername/ai-experiments.git
    cd ai-experiments
-````
+   ```
 
-2. **Set up your environment**
-
+2. **Set up your environment**  
    ```bash
    conda env create -f environment.yml
    conda activate ai-experiments
    ```
 
-3. **Choose a project**
-
+3. **Choose a project**  
    ```bash
    cd project-01-image-classifier
    ```
@@ -94,15 +90,14 @@ ai-experiments/
 
 ## 🤝 Contributing
 
-We welcome any ideas, bug reports, or enhancements!
+We welcome any ideas, bug reports, or enhancements!  
 
-1. ⭐️ **Star** the repository.
-2. 🍴 **Fork** and create a feature branch:
-
+1. ⭐️ **Star** the repository.  
+2. 🍴 **Fork** and create a feature branch:  
    ```bash
    git checkout -b feature/amazing-idea
    ```
-3. 📄 **Update** docs or code.
+3. 📄 **Update** docs or code.  
 4. 🔃 **Open** a Pull Request with a clear description of your changes.
 
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for full guidelines.
@@ -111,16 +106,16 @@ See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for full guidelines.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**.  
 See [LICENSE](LICENSE) for details.
 
 ---
 
 ### 🏷️ Connect
 
-* **GitHub**: [yourusername](https://github.com/yourusername)
-* **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-* **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **GitHub**: [yourusername](https://github.com/yourusername)  
+- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
+- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
 
 ---
 
