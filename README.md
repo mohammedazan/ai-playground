@@ -1,4 +1,3 @@
-```markdown
 ![AI Lab Banner](https://raw.githubusercontent.com/yourusername/your-repo/main/.github/banner.png)
 
 # 🚀 AI Experiments Monorepo
@@ -41,6 +40,7 @@
 ---
 
 ## 📂 Folder Structure
+
 
 ```
 ai-experiments/
