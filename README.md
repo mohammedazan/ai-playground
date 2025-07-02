@@ -2,7 +2,7 @@
 
 # 🚀 AI Experiments Monorepo
 
-> **Monorepo for showcasing small real‑world experiments and examples  
+> **Monorepo for showcasing small real‑world experiments and examples
 > in the field of artificial intelligence and machine learning.**
 
 ---
@@ -20,10 +20,10 @@
 
 ## ✨ Features
 
-- 🎯 **Focused experiments**: Each folder is a self‑contained mini‑project.  
-- 📚 **Clear documentation**: Every experiment has its own **README**, code samples, and results.  
-- 🔄 **Reproducible**: Use provided environment files to spin up notebooks or scripts in seconds.  
-- 🚀 **Extendable**: Fork or branch to build on top of any experiment—share your improvements!
+* 🎯 **Focused experiments**: Each folder is a self‑contained mini‑project.
+* 📚 **Clear documentation**: Every experiment has its own **README**, code samples, and results.
+* 🔄 **Reproducible**: Use provided environment files to spin up notebooks or scripts in seconds.
+* 🚀 **Extendable**: Fork or branch to build on top of any experiment—share your improvements!
 
 ---
 
@@ -40,7 +40,6 @@
 ---
 
 ## 📂 Folder Structure
-
 
 ```
 ai-experiments/
@@ -67,19 +66,22 @@ ai-experiments/
 
 ## 🚀 Getting Started
 
-1. **Clone the repo**  
+1. **Clone the repo**
+
    ```bash
    git clone https://github.com/yourusername/ai-experiments.git
    cd ai-experiments
    ```
 
-2. **Set up your environment**  
+2. **Set up your environment**
+
    ```bash
    conda env create -f environment.yml
    conda activate ai-experiments
    ```
 
-3. **Choose a project**  
+3. **Choose a project**
+
    ```bash
    cd project-01-image-classifier
    ```
@@ -90,14 +92,15 @@ ai-experiments/
 
 ## 🤝 Contributing
 
-We welcome any ideas, bug reports, or enhancements!  
+We welcome any ideas, bug reports, or enhancements!
 
-1. ⭐️ **Star** the repository.  
-2. 🍴 **Fork** and create a feature branch:  
+1. ⭐️ **Star** the repository.
+2. 🍴 **Fork** and create a feature branch:
+
    ```bash
    git checkout -b feature/amazing-idea
    ```
-3. 📄 **Update** docs or code.  
+3. 📄 **Update** docs or code.
 4. 🔃 **Open** a Pull Request with a clear description of your changes.
 
 See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for full guidelines.
@@ -106,20 +109,19 @@ See [CONTRIBUTING.md](.github/CONTRIBUTING.md) for full guidelines.
 
 ## 📄 License
 
-This project is licensed under the **MIT License**.  
+This project is licensed under the **MIT License**.
 See [LICENSE](LICENSE) for details.
 
 ---
 
 ### 🏷️ Connect
 
-- **GitHub**: [yourusername](https://github.com/yourusername)  
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)  
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)  
+* **GitHub**: [yourusername](https://github.com/yourusername)
+* **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
+* **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
 <p align="center">
   Made with ❤️ and ☕ by Mohamed Hazan
 </p>
-```
