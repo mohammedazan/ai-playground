@@ -1,5 +1,3 @@
-![AI Lab Banner](https://raw.githubusercontent.com/yourusername/your-repo/main/.github/banner.png)
-
 # 🚀 AI Experiments Monorepo
 
 > **Monorepo for showcasing small real‑world experiments and examples
@@ -123,5 +121,5 @@ See [LICENSE](LICENSE) for details.
 ---
 
 <p align="center">
-  Made with ❤️ and ☕ by Mohamed Hazan
+  Made with ❤️ and ☕ by Mohamed azan
 </p>
